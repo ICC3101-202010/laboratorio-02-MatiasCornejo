@@ -5,7 +5,7 @@ namespace lab_2
     class proyecto
 
     {
-        public static void Main(string[] args)
+        public static void proyecto.Main(string[] args)
         {
 
 
@@ -13,17 +13,7 @@ namespace lab_2
             Cancion c = new Cancion();
             // Imprimimos sus datos
             Console.WriteLine("Genero: " + c.GetGenero() + ", Artista: " + c.GetArtista() + ", Album: " + c.GetAlbum() + ", Nombre: " + c.GetNombre());
-
-
-
-
-
-
-
-
-
-
-
         }
     }
+
 }

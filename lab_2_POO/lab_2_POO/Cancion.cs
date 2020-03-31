@@ -1,5 +1,5 @@
 ﻿using System;
-namespace lab_2
+namespace lab_2_POO
 {
     // Clase Person con dos atributos edad y nombre
     public class Cancion
@@ -57,6 +57,6 @@ namespace lab_2
         {
             return album;
         }
-        
+
     }
 }
