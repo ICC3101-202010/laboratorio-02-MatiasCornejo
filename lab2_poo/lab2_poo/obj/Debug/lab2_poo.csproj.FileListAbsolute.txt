@@ -1,0 +1,5 @@
+/Users/matiascornejolazcano/Desktop/laboratorio-02-MatiasCornejo/lab2_poo/lab2_poo/obj/Debug/lab2_poo.csprojAssemblyReference.cache
+/Users/matiascornejolazcano/Desktop/laboratorio-02-MatiasCornejo/lab2_poo/lab2_poo/bin/Debug/lab2_poo.exe
+/Users/matiascornejolazcano/Desktop/laboratorio-02-MatiasCornejo/lab2_poo/lab2_poo/bin/Debug/lab2_poo.pdb
+/Users/matiascornejolazcano/Desktop/laboratorio-02-MatiasCornejo/lab2_poo/lab2_poo/obj/Debug/lab2_poo.exe
+/Users/matiascornejolazcano/Desktop/laboratorio-02-MatiasCornejo/lab2_poo/lab2_poo/obj/Debug/lab2_poo.pdb
